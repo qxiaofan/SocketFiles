@@ -1,0 +1,14 @@
+﻿生成启动时间为 2018/1/23 9:18:46。
+     1>项目“E:\ProjectFiles\socket-Test\socket-Test\socket-Test.vcxproj”在节点 2 上(Build 个目标)。
+     1>ClCompile:
+         C:\ProGrammeFiles\VS2013\VC\bin\x86_amd64\CL.exe /c /Zi /nologo /W3 /WX- /Od /D WIN32 /D _DEBUG /D _CONSOLE /D _LIB /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"x64\Debug\\" /Fd"x64\Debug\vc120.pdb" /Gd /TP /errorReport:prompt test.cpp
+         test.cpp
+       Link:
+         C:\ProGrammeFiles\VS2013\VC\bin\x86_amd64\link.exe /ERRORREPORT:PROMPT /OUT:"E:\ProjectFiles\socket-Test\x64\Debug\socket-Test.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"E:\ProjectFiles\socket-Test\x64\Debug\socket-Test.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"E:\ProjectFiles\socket-Test\x64\Debug\socket-Test.lib" /MACHINE:X64 x64\Debug\test.obj
+         x64\Debug\winSocketClient.obj
+         socket-Test.vcxproj -> E:\ProjectFiles\socket-Test\x64\Debug\socket-Test.exe
+     1>已完成生成项目“E:\ProjectFiles\socket-Test\socket-Test\socket-Test.vcxproj”(Build 个目标)的操作。
+
+生成成功。
+
+已用时间 00:00:00.87

@@ -1,0 +1,14 @@
+﻿生成启动时间为 2018/1/22 16:29:51。
+     1>项目“G:\ProjectFiles\SocketWin\SocketWin\SocketWin.vcxproj”在节点 2 上(Build 个目标)。
+     1>ClCompile:
+         C:\ProgrammeFiles\VS2013\VC\bin\x86_amd64\CL.exe /c /Zi /nologo /W3 /WX- /Od /D WIN32 /D _DEBUG /D _CONSOLE /D _LIB /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"x64\Debug\\" /Fd"x64\Debug\vc120.pdb" /Gd /TP /errorReport:prompt test.cpp
+         test.cpp
+       Link:
+         C:\ProgrammeFiles\VS2013\VC\bin\x86_amd64\link.exe /ERRORREPORT:PROMPT /OUT:"G:\ProjectFiles\SocketWin\x64\Debug\SocketWin.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"G:\ProjectFiles\SocketWin\x64\Debug\SocketWin.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"G:\ProjectFiles\SocketWin\x64\Debug\SocketWin.lib" /MACHINE:X64 x64\Debug\test.obj
+         x64\Debug\winSocketClient.obj
+         SocketWin.vcxproj -> G:\ProjectFiles\SocketWin\x64\Debug\SocketWin.exe
+     1>已完成生成项目“G:\ProjectFiles\SocketWin\SocketWin\SocketWin.vcxproj”(Build 个目标)的操作。
+
+生成成功。
+
+已用时间 00:00:01.97
